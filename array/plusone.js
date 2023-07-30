@@ -1,3 +1,8 @@
+//https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/
+
+//Input: digits = [9,9,9]
+//Output: [1,0,0,0]
+
 var plusOne = function(digits) {
     console.log("array", digits)
     let carryover;
